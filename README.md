@@ -1,5 +1,5 @@
 # datamining_proj
-Term project for Data Mining which we selected - Memotion analysis prediction. That is we attempted to catagorize what emotion a meme is expressing through its text contents and also tried to quantify that emotion on a scale of 0-3; still we couldn't implement the quantification. But implemented the emotion prediction for a meme on the basis of text contents.
+Term project for Data Mining which we selected - Memotion analysis prediction. We attempted to catagorize the emotion that a meme expresses through its text contents and also, tried to quantify that emotion on a scale of 0-3. We couldn't implement the quantification, but we implemented the emotion prediction for a meme on the basis of text contents.
 
 We selected the data set with 6000+ rows.
 
