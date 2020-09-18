@@ -1,5 +1,5 @@
-# datamining_proj
-Term project for Data Mining which we selected - Memotion analysis: Emotion prediction of the internet memes. We attempted to catagorize the emotion that a meme expresses through its text contents and also, tried to quantify that emotion on a scale of 0-3. We couldn't implement the quantification, but we implemented the emotion prediction for a meme on the basis of text contents.
+#   About this project
+Term project for Data Mining which we selected - Memotion analysis: Emotion prediction of the internet memes. We attempted to categorize the emotion that a meme expresses through its text contents, like - into humor, sarcasm, offense, and motivation categories.  and also, tried to quantify that emotion on a scale of 0-3. We couldn't implement the quantification, but we implemented the emotion prediction for a meme on the basis of text contents.
 
 We selected the data set with 6000+ rows.
 
